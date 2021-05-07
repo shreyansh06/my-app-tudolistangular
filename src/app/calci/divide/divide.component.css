@@ -1,0 +1,36 @@
+#input5{
+    position: absolute;
+    top: 57%;
+    left: 185px;
+    width: 26%;
+    height: 32px;
+    outline: none;
+    border: none;
+}
+#input6{
+    width: 23%;
+    height: 33px;
+    outline: none;
+    border: none;
+    position: absolute;
+    left: 550px;
+    top: 57%;
+}
+#divide{
+    width: 43px;
+    height: 45px;
+    outline: none;
+    position: absolute;
+    left: 37%;
+    top: 55%;
+    font-size: 38px;
+    color: blue;
+    outline: none;
+    border: none;
+}
+h2{
+    font-size: 27px;
+    float: left;
+    margin-top: 2%;
+    margin-left: 68%;
+}
